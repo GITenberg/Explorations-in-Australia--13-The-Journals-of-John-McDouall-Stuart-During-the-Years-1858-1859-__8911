@@ -1,5 +1,8 @@
 _repo: Explorations-in-Australia--13-The-Journals-of-John-McDouall-Stuart-During-the-Years-1858-1859-__8911
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stuart, John McDouall
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2927
     wikipedia: http://en.wikipedia.org/wiki/John_McDouall_Stuart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8911#Explorations-in-Australia--13-The-Journals-of-John-McDouall-Stuart-During-the-Years-1858-1859-_
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-08-30'
 gutenberg_type: Text
